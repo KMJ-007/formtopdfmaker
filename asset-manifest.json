@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/formtopdfmaker/static/css/main.073c9b0a.css",
-    "main.js": "/formtopdfmaker/static/js/main.9686b7e6.js",
+    "main.js": "/formtopdfmaker/static/js/main.839ee7dd.js",
     "static/js/498.f9b51074.chunk.js": "/formtopdfmaker/static/js/498.f9b51074.chunk.js",
     "static/js/703.5afed4b3.chunk.js": "/formtopdfmaker/static/js/703.5afed4b3.chunk.js",
     "static/js/847.049055c6.chunk.js": "/formtopdfmaker/static/js/847.049055c6.chunk.js",
     "static/media/logo.svg": "/formtopdfmaker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/formtopdfmaker/index.html",
     "main.073c9b0a.css.map": "/formtopdfmaker/static/css/main.073c9b0a.css.map",
-    "main.9686b7e6.js.map": "/formtopdfmaker/static/js/main.9686b7e6.js.map",
+    "main.839ee7dd.js.map": "/formtopdfmaker/static/js/main.839ee7dd.js.map",
     "498.f9b51074.chunk.js.map": "/formtopdfmaker/static/js/498.f9b51074.chunk.js.map",
     "703.5afed4b3.chunk.js.map": "/formtopdfmaker/static/js/703.5afed4b3.chunk.js.map",
     "847.049055c6.chunk.js.map": "/formtopdfmaker/static/js/847.049055c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9686b7e6.js"
+    "static/js/main.839ee7dd.js"
   ]
 }
