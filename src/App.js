@@ -69,14 +69,11 @@ export default class App extends Component {
 
  `
     doc.text(50,40,this.state.value);
-    // doc.text(10,40,text);
+    
     var splitTitle = doc.splitTextToSize(text, 400);
 doc.text(15, 40, splitTitle);
-    // doc.html(text, {
-    //       callback: function (doc) {
-    //         doc.save("testing123.pdf");
-    //    },x:60,y:50})
-    doc.save("test.pdf");
+    // doc.save("test.pdf");
+    doc.output('datauri');
   };
   handleChange(event) {
     this.setState({value: event.target.value});
